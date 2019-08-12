@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using FIT5032_Week03.HelloWorld;
+using FIT5032_Week03.Exercise;
 
 namespace FIT5032_Week03.Controllers
 {
@@ -15,7 +17,15 @@ namespace FIT5032_Week03.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            //ViewBag.Message = "Your application description page.";
+
+            Hello hello = new Hello();
+
+            ViewBag.Message = hello.GetHello();
+
+            ExampleDictionary ed = new ExampleDictionary();
+
+            ed.Example(); 
 
             return View();
         }
