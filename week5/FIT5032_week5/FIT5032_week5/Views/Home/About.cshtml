@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+<script src="~/Scripts/bootstrap-datepicker.min.js"></script>
+<input data-provide="datepicker" id="sandbox-container">
+<link id="bs-css" href="https://netdna.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet">
+<link id="bsdp-css" href="https://unpkg.com/bootstrap-datepicker@1.9.0/dist/css/bootstrap-datepicker3.min.css" rel="stylesheet">
+<script>
+    $('#sandbox-container input').datepicker({
+    });
+</script>
+<p>Use this area to provide additional information.</p>

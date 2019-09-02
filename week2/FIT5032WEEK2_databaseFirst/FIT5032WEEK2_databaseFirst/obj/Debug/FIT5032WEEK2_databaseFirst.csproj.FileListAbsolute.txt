@@ -98,8 +98,8 @@ C:\Junbo\5032\fit5032 studio3\week2\FIT5032WEEK2_databaseFirst\FIT5032WEEK2_data
 C:\Junbo\5032\fit5032 studio3\week2\FIT5032WEEK2_databaseFirst\FIT5032WEEK2_databaseFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Junbo\5032\fit5032 studio3\week2\FIT5032WEEK2_databaseFirst\FIT5032WEEK2_databaseFirst\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Junbo\5032\fit5032 studio3\week2\FIT5032WEEK2_databaseFirst\FIT5032WEEK2_databaseFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Junbo\5032\fit5032 studio3\week2\FIT5032WEEK2_databaseFirst\FIT5032WEEK2_databaseFirst\obj\Debug\FIT5032WEEK2_databaseFirst.csprojAssemblyReference.cache
 C:\Junbo\5032\fit5032 studio3\week2\FIT5032WEEK2_databaseFirst\FIT5032WEEK2_databaseFirst\obj\Debug\FIT5032WEEK2_databaseFirst.csproj.CoreCompileInputs.cache
 C:\Junbo\5032\fit5032 studio3\week2\FIT5032WEEK2_databaseFirst\FIT5032WEEK2_databaseFirst\obj\Debug\FIT5032WEEK2_databaseFirst.csproj.CopyComplete
 C:\Junbo\5032\fit5032 studio3\week2\FIT5032WEEK2_databaseFirst\FIT5032WEEK2_databaseFirst\obj\Debug\FIT5032WEEK2_databaseFirst.dll
 C:\Junbo\5032\fit5032 studio3\week2\FIT5032WEEK2_databaseFirst\FIT5032WEEK2_databaseFirst\obj\Debug\FIT5032WEEK2_databaseFirst.pdb
+C:\Junbo\5032\fit5032 studio3\week2\FIT5032WEEK2_databaseFirst\FIT5032WEEK2_databaseFirst\obj\Debug\FIT5032WEEK2_databaseFirst.csprojAssemblyReference.cache

@@ -98,7 +98,6 @@ C:\Junbo\5032\fit5032 studio3\week4\FIT5032_week4\FIT5032_week4\bin\Microsoft.Ow
 C:\Junbo\5032\fit5032 studio3\week4\FIT5032_week4\FIT5032_week4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Junbo\5032\fit5032 studio3\week4\FIT5032_week4\FIT5032_week4\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Junbo\5032\fit5032 studio3\week4\FIT5032_week4\FIT5032_week4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Junbo\5032\fit5032 studio3\week4\FIT5032_week4\FIT5032_week4\obj\Debug\FIT5032_week4.csprojAssemblyReference.cache
 C:\Junbo\5032\fit5032 studio3\week4\FIT5032_week4\FIT5032_week4\obj\Debug\FIT5032_week4.csproj.CoreCompileInputs.cache
 C:\Junbo\5032\fit5032 studio3\week4\FIT5032_week4\FIT5032_week4\obj\Debug\FIT5032_week4.csproj.CopyComplete
 C:\Junbo\5032\fit5032 studio3\week4\FIT5032_week4\FIT5032_week4\obj\Debug\FIT5032_week4.dll
