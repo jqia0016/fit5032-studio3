@@ -95,3 +95,4 @@ C:\Junbo\5032\fit5032 studio3\week8\FIT5032_Week08A\bin\EntityFramework.dll
 C:\Junbo\5032\fit5032 studio3\week8\FIT5032_Week08A\bin\EntityFramework.SqlServer.dll
 C:\Junbo\5032\fit5032 studio3\week8\FIT5032_Week08A\bin\EntityFramework.xml
 C:\Junbo\5032\fit5032 studio3\week8\FIT5032_Week08A\bin\EntityFramework.SqlServer.xml
+C:\Junbo\5032\fit5032 studio3\week8\FIT5032_Week08A\obj\Debug\FIT5032_Week08A.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\bin\Debug\netcoreapp2.1\FIT5032_Week10.deps.json
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\bin\Debug\netcoreapp2.1\FIT5032_Week10.runtimeconfig.json
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\bin\Debug\netcoreapp2.1\FIT5032_Week10.runtimeconfig.dev.json
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\bin\Debug\netcoreapp2.1\FIT5032_Week10.dll
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\bin\Debug\netcoreapp2.1\FIT5032_Week10.pdb
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\obj\Debug\netcoreapp2.1\FIT5032_Week10.csprojAssemblyReference.cache
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\obj\Debug\netcoreapp2.1\FIT5032_Week10.csproj.CoreCompileInputs.cache
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\obj\Debug\netcoreapp2.1\FIT5032_Week10.RazorAssemblyInfo.cache
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\obj\Debug\netcoreapp2.1\FIT5032_Week10.RazorAssemblyInfo.cs
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\obj\Debug\netcoreapp2.1\FIT5032_Week10.AssemblyInfoInputs.cache
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\obj\Debug\netcoreapp2.1\FIT5032_Week10.AssemblyInfo.cs
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\obj\Debug\netcoreapp2.1\FIT5032_Week10.RazorTargetAssemblyInfo.cache
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\obj\Debug\netcoreapp2.1\FIT5032_Week10.dll
+C:\Junbo\5032\fit5032 studio3\week10\FIT5032_Week10\FIT5032_Week10\obj\Debug\netcoreapp2.1\FIT5032_Week10.pdb
